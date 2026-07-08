@@ -1,0 +1,122 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix kgi-shape: <http://kgi.services.base4nfdi.de/shapes/> .
+
+kgi-shape:DatasetShape
+    a sh:NodeShape ;
+    sh:targetClass dcat:Dataset ;
+
+    sh:property [
+        sh:path dcterms:title ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:severity sh:Violation ;
+        sh:message "Every dcat:Dataset must have a literal title." ;
+    ] ;
+
+    sh:property [
+        sh:path dcterms:description ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:severity sh:Warning ;
+        sh:message "A dcat:Dataset should have a literal description." ;
+    ] ;
+
+    sh:property [
+        sh:path dcterms:publisher ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:severity sh:Warning ;
+        sh:message "A dcat:Dataset should have a publisher IRI." ;
+    ] ;
+
+    sh:property [
+        sh:path dcterms:creator ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:severity sh:Warning ;
+        sh:message "A dcat:Dataset should have a creator IRI." ;
+    ] ;
+
+    sh:property [
+        sh:path dcat:landingPage ;
+        sh:nodeKind sh:Literal ;
+        sh:pattern "^https?://" ;
+        sh:severity sh:Warning ;
+        sh:message "A dcat:Dataset landingPage should be an http/https URL literal." ;
+    ] ;
+
+    sh:property [
+        sh:path dcat:distribution ;
+        sh:nodeKind sh:IRI ;
+        sh:class dcat:Distribution ;
+        sh:severity sh:Violation ;
+        sh:message "A dcat:Dataset distribution must point to a dcat:Distribution IRI." ;
+    ] .
+
+kgi-shape:DataServiceShape
+    a sh:NodeShape ;
+    sh:targetClass dcat:DataService ;
+
+    sh:property [
+        sh:path dcat:endpointURL ;
+        sh:minCount 1 ;
+        sh:severity sh:Violation ;
+        sh:message "Every dcat:DataService must have an endpointURL." ;
+    ] ;
+
+    sh:property [
+        sh:path dcat:endpointURL ;
+        sh:nodeKind sh:Literal ;
+        sh:pattern "^https?://" ;
+        sh:severity sh:Warning ;
+        sh:message "A dcat:DataService endpointURL should be an http/https URL literal." ;
+    ] ;
+
+    sh:property [
+        sh:path dcat:servesDataset ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ; 
+        sh:class dcat:Dataset ;
+        sh:severity sh:Violation ;
+        sh:message "Every dcat:DataService must serve a dcat:Dataset IRI." ;
+    ] .
+
+kgi-shape:DistributionShape
+    a sh:NodeShape ;
+    sh:targetClass dcat:Distribution ;
+
+    sh:or (
+        [
+            sh:property [
+                sh:path dcat:downloadURL ;
+                sh:minCount 1 ;
+            ]
+        ]
+        [
+            sh:property [
+                sh:path dcat:accessURL ;
+                sh:minCount 1 ;
+            ]
+        ]
+    ) ;
+
+    sh:severity sh:Violation ;
+    sh:message "Every dcat:Distribution must have either downloadURL or accessURL." ;
+
+    sh:property [
+        sh:path dcat:downloadURL ;
+        sh:nodeKind sh:Literal ;
+        sh:pattern "^https?://" ;
+        sh:severity sh:Warning ;
+        sh:message "A dcat:Distribution downloadURL should be an http/https URL literal." ;
+    ] ;
+
+    sh:property [
+        sh:path dcat:accessURL ;
+        sh:nodeKind sh:Literal ;
+        sh:pattern "^https?://" ;
+        sh:severity sh:Warning ;
+        sh:message "A dcat:Distribution accessURL should be an http/https URL literal." ;
+    ] .

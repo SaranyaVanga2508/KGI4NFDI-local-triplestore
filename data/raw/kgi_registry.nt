@@ -1,0 +1,403 @@
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://purl.org/dc/terms/description> "2 KGs containing scholarly articles with extracted software mentiones, one KG wit articles from the social science domains, the other one with articles from PubMed."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://purl.org/dc/terms/description> "A centralized, BFO-compliant knowledge graph for materials science and engineering (MSE), integrating research data using the MatWerk Ontology (MWO) on top of NFDIcore."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://purl.org/dc/terms/description> "A connector for all research data produced within the NFDI4Culture research landscape, improving the findability, accessibility, interoperability and reusability of cultural heritage data within the 4Culture Domain."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR23> <http://purl.org/dc/terms/description> "A Knowledge Graph developed during the Coding da Vinci Süd 2019 hackathon using a dataset by the National Archive of Baden-Wuerttemberg."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR48> <http://purl.org/dc/terms/description> "a Knowledge Graph of Annotated Survey Questions"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR69> <http://purl.org/dc/terms/description> "A multi-domain KG having many entities from the domains of interest of NFDI. Coordination of NFDI-related activities is at https://www.wikidata.org/wiki/Wikidata:WikiProject_NFDI."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://purl.org/dc/terms/description> "a public RDF corpus of anonymized data for a large collection of annotated tweets"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR11> <http://purl.org/dc/terms/description> "a RDF data set about data sets which are linked to publications that mention the data sets"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://purl.org/dc/terms/description> "a registry of claims"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://purl.org/dc/terms/description> "a semantically annotated corpus of Tweets about the COVID-19 pandemic"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://purl.org/dc/terms/description> "A toolchain for the semantic annotation of 2D, 3D and AV media representing digitised cultural heritage obects"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://purl.org/dc/terms/title> "Aktienführer Knowledge Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://purl.org/dc/terms/title> "ClaimsKG"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/description> "cross-disciplinary repository for archiving and publishing research data"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://purl.org/dc/terms/title> "Culture Knowledge Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR9> <http://purl.org/dc/terms/title> "Das Datenportal für Deutschland"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR11> <http://purl.org/dc/terms/title> "Data Set Knowledge Graph (DSKG)"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR14> <http://purl.org/dc/terms/title> "dblp computer science bibliography"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR25> <http://purl.org/dc/terms/description> "descriptions of 28 million titles from 200 academic libraries in Bavaria, Berlin and Brandenburg"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR60> <http://purl.org/dc/terms/description> "European public sector datasets"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR83> <http://purl.org/dc/terms/title> "FactGrid"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://purl.org/dc/terms/title> "FactGRID"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://purl.org/dc/terms/title> "Gemeinsame Normdatei (GND)"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://purl.org/dc/terms/title> "GESIS KG"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR11> <http://www.w3.org/ns/dcat#landingPage> "http://dskg.org" .
+<http://kgi.services.base4nfdi.de/entity/KGR13> <http://www.w3.org/ns/dcat#downloadURL> "http://dskg.org/rdf-dumps" .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://purl.org/dc/terms/conformsTo> "http://http://www.cidoc-crm.org/cidoc-crm/" .
+<http://kgi.services.base4nfdi.de/entity/KGR25> <http://www.w3.org/ns/dcat#landingPage> "http://lod.b3kat.de/doc/de/willkommen-beim-linkedopendata-service-des-b3kat-lodb3katde" .
+<http://kgi.services.base4nfdi.de/entity/KGR45> <http://www.w3.org/ns/dcat#accessURL> "http://tibhannover.gitlab.io/orkg/orkg-backend/api-doc" .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://purl.org/dc/terms/conformsTo> "http://www.w3.org/2004/02/skos/core#" .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://www.w3.org/ns/dcat#landingPage> "https://akf.kgi.uni-mannheim.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR3> <http://www.w3.org/ns/dcat#accessURL> "https://akf.kgi.uni-mannheim.de/w/api.php" .
+<http://kgi.services.base4nfdi.de/entity/KGR47> <http://www.w3.org/ns/dcat#accessURL> "https://api.openaire.eu" .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://purl.org/dc/terms/conformsTo> "https://d-nb.info/standards/elementset/gnd" .
+<http://kgi.services.base4nfdi.de/entity/KGR21> <http://www.w3.org/ns/dcat#downloadURL> "https://data.dnb.de/opendata" .
+<http://kgi.services.base4nfdi.de/entity/KGR60> <http://www.w3.org/ns/dcat#landingPage> "https://data.europa.eu" .
+<http://kgi.services.base4nfdi.de/entity/KGR61> <http://www.w3.org/ns/dcat#endpointURL> "https://data.europa.eu/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://www.w3.org/ns/dcat#landingPage> "https://data.gesis.org/claimskg" .
+<http://kgi.services.base4nfdi.de/entity/KGR5> <http://www.w3.org/ns/dcat#endpointURL> "https://data.gesis.org/claimskg/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://www.w3.org/ns/dcat#landingPage> "https://data.gesis.org/gesiskg/" .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://purl.org/dc/terms/conformsTo> "https://data.gesis.org/gesiskg/schema/" .
+<http://kgi.services.base4nfdi.de/entity/KGR81> <http://www.w3.org/ns/dcat#endpointURL> "https://data.gesis.org/gesiskg/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR48> <http://www.w3.org/ns/dcat#landingPage> "https://data.gesis.org/questionfeaturessample" .
+<http://kgi.services.base4nfdi.de/entity/KGR49> <http://www.w3.org/ns/dcat#endpointURL> "https://data.gesis.org/questionfeaturessample/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://www.w3.org/ns/dcat#landingPage> "https://data.gesis.org/softwarekg/" .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://purl.org/dc/terms/conformsTo> "https://data.gesis.org/softwarekg/softwarekg-pubmed/#Data-model" .
+<http://kgi.services.base4nfdi.de/entity/KGR55> <http://www.w3.org/ns/dcat#endpointURL> "https://data.gesis.org/softwarekg/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://www.w3.org/ns/dcat#landingPage> "https://data.gesis.org/somesci" .
+<http://kgi.services.base4nfdi.de/entity/KGR58> <http://www.w3.org/ns/dcat#endpointURL> "https://data.gesis.org/somesci/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://www.w3.org/ns/dcat#landingPage> "https://data.gesis.org/tweetscov19/" .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://purl.org/dc/terms/conformsTo> "https://data.gesis.org/tweetscov19/#Data-model" .
+<http://kgi.services.base4nfdi.de/entity/KGR64> <http://www.w3.org/ns/dcat#downloadURL> "https://data.gesis.org/tweetscov19/#Dataset" .
+<http://kgi.services.base4nfdi.de/entity/KGR63> <http://www.w3.org/ns/dcat#endpointURL> "https://data.gesis.org/tweetscov19/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://www.w3.org/ns/dcat#landingPage> "https://data.gesis.org/tweetskb" .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://purl.org/dc/terms/conformsTo> "https://data.gesis.org/tweetskb/#Data-model" .
+<http://kgi.services.base4nfdi.de/entity/KGR67> <http://www.w3.org/ns/dcat#downloadURL> "https://data.gesis.org/tweetskb/#dataset" .
+<http://kgi.services.base4nfdi.de/entity/KGR66> <http://www.w3.org/ns/dcat#endpointURL> "https://data.gesis.org/tweetskb/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://www.w3.org/ns/dcat#landingPage> "https://database.factgrid.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR17> <http://www.w3.org/ns/dcat#endpointURL> "https://database.factgrid.de/query" .
+<http://kgi.services.base4nfdi.de/entity/KGR84> <http://www.w3.org/ns/dcat#endpointURL> "https://database.factgrid.de/query/" .
+<http://kgi.services.base4nfdi.de/entity/KGR18> <http://www.w3.org/ns/dcat#accessURL> "https://database.factgrid.de/w/api.php" .
+<http://kgi.services.base4nfdi.de/entity/KGR83> <http://www.w3.org/ns/dcat#landingPage> "https://database.factgrid.de/wiki/Main_Page" .
+<http://kgi.services.base4nfdi.de/entity/KGR71> <http://www.w3.org/ns/dcat#accessURL> "https://doc.wikimedia.org/Wikibase/master/js/rest-api" .
+<http://kgi.services.base4nfdi.de/entity/KGR82> <http://www.w3.org/ns/dcat#downloadURL> "https://doi.org/10.5281/zenodo.14229945" .
+<http://kgi.services.base4nfdi.de/entity/KGR47> <http://www.w3.org/ns/dcat#downloadURL> "https://doi.org/10.5281/zenodo.3516917" .
+<http://kgi.services.base4nfdi.de/entity/KGR56> <http://www.w3.org/ns/dcat#downloadURL> "https://doi.org/10.5281/zenodo.3571350" .
+<http://kgi.services.base4nfdi.de/entity/KGR56> <http://www.w3.org/ns/dcat#downloadURL> "https://doi.org/10.5281/zenodo.5553738" .
+<http://kgi.services.base4nfdi.de/entity/KGR6> <http://www.w3.org/ns/dcat#downloadURL> "https://doi.org/10.7802/2469" .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://www.w3.org/ns/dcat#landingPage> "https://explore.openaire.eu ; https://monitor.openaire.eu ; https://osobservatory.openaire.eu" .
+<http://kgi.services.base4nfdi.de/entity/KGR76> <http://www.w3.org/ns/dcat#downloadURL> "https://github.com/ISE-FIZKarlsruhe/matwerk/tree/main/data" .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://purl.org/dc/terms/conformsTo> "https://github.com/ISE-FIZKarlsruhe/mwo" .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://purl.org/dc/terms/conformsTo> "https://github.com/ISE-FIZKarlsruhe/nfdicore" .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://purl.org/dc/terms/conformsTo> "https://gitlab.com/nfdi4culture/ta1-data-enrichment/wikibase-model/" .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://purl.org/dc/terms/conformsTo> "https://gitlab.com/nfdi4culture/wikibase4research/auxiliary-service-repositories/wikibase-model" .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://www.w3.org/ns/dcat#landingPage> "https://graph.nfdi4objects.net/" .
+<http://kgi.services.base4nfdi.de/entity/KGR39> <http://www.w3.org/ns/dcat#endpointURL> "https://graph.nfdi4objects.net/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://purl.org/dc/terms/conformsTo> "https://graph.openaire.eu/docs/" .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://www.w3.org/ns/dcat#landingPage> "https://interactoa.toolforge.org/" .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/conformsTo> "https://joshmoore.github.io/ome-ld/_downloads/17de156c24f8ac1033e1c1979ab43646/model.owl.ttl" .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://www.w3.org/ns/dcat#landingPage> "https://kg.nfdi4bioimage.de/" .
+<http://kgi.services.base4nfdi.de/entity/KGR79> <http://www.w3.org/ns/dcat#downloadURL> "https://kg.nfdi4bioimage.de/N4BIKG/data" .
+<http://kgi.services.base4nfdi.de/entity/KGR78> <http://www.w3.org/ns/dcat#endpointURL> "https://kg.nfdi4bioimage.de/N4BIKG/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR36> <http://www.w3.org/ns/dcat#landingPage> "https://knowledgehub.nfdi4earth.de/" .
+<http://kgi.services.base4nfdi.de/entity/KGR21> <http://www.w3.org/ns/dcat#accessURL> "https://lobid.org/gnd/api" .
+<http://kgi.services.base4nfdi.de/entity/KGR27> <http://www.w3.org/ns/dcat#downloadURL> "https://lod.b3kat.de/doc/download" .
+<http://kgi.services.base4nfdi.de/entity/KGR26> <http://www.w3.org/ns/dcat#endpointURL> "https://lod.b3kat.de/doc/sparql-endpoint" .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://www.w3.org/ns/dcat#landingPage> "https://mbi.kgi.uni-mannheim.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR33> <http://www.w3.org/ns/dcat#accessURL> "https://mbi.kgi.uni-mannheim.de/w/api.php" .
+<http://kgi.services.base4nfdi.de/entity/KGR34> <http://www.w3.org/ns/dcat#landingPage> "https://msekg-nfdi-matwerk-02.web.vulcanus.otc.coscine.dev/matwerk/" .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://www.w3.org/ns/dcat#landingPage> "https://nfdi.fiz-karlsruhe.de/matwerk/" .
+<http://kgi.services.base4nfdi.de/entity/KGR76> <http://www.w3.org/ns/dcat#accessURL> "https://nfdi.fiz-karlsruhe.de/matwerk/shmarql" .
+<http://kgi.services.base4nfdi.de/entity/KGR75> <http://www.w3.org/ns/dcat#endpointURL> "https://nfdi.fiz-karlsruhe.de/matwerk/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/conformsTo> "https://nfdi.fiz-karlsruhe.de/ontology/" .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://purl.org/dc/terms/conformsTo> "https://nfdi4culture.de/ontology.html" .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://www.w3.org/ns/dcat#landingPage> "https://nfdi4culture.de/resources/knowledge-graph" .
+<http://kgi.services.base4nfdi.de/entity/KGR8> <http://www.w3.org/ns/dcat#endpointURL> "https://nfdi4culture.de/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://www.w3.org/ns/dcat#landingPage> "https://nomisma.org" .
+<http://kgi.services.base4nfdi.de/entity/KGR42> <http://www.w3.org/ns/dcat#downloadURL> "https://nomisma.org/data/" .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://purl.org/dc/terms/conformsTo> "https://nomisma.org/ontology" .
+<http://kgi.services.base4nfdi.de/entity/KGR41> <http://www.w3.org/ns/dcat#endpointURL> "https://nomisma.org/sparql/" .
+<http://kgi.services.base4nfdi.de/entity/KGR43> <http://www.w3.org/ns/dcat#landingPage> "https://orkg.org" .
+<http://kgi.services.base4nfdi.de/entity/KGR44> <http://www.w3.org/ns/dcat#endpointURL> "https://orkg.org/triplestore; https://orkg.org/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://www.w3.org/ns/dcat#landingPage> "https://portal.mardi4nfdi.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR30> <http://www.w3.org/ns/dcat#accessURL> "https://portal.mardi4nfdi.de/w/api.php" .
+<http://kgi.services.base4nfdi.de/entity/KGR2> <http://www.w3.org/ns/dcat#endpointURL> "https://query.akf.kgi.uni-mannheim.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR32> <http://www.w3.org/ns/dcat#endpointURL> "https://query.mbi.kgi.uni-mannheim.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR29> <http://www.w3.org/ns/dcat#endpointURL> "https://query.portal.mardi4nfdi.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR52> <http://www.w3.org/ns/dcat#endpointURL> "https://query.semantic-kompakkt.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR73> <http://www.w3.org/ns/dcat#endpointURL> "https://query.semantic-kompakkt.de/" .
+<http://kgi.services.base4nfdi.de/entity/KGR70> <http://www.w3.org/ns/dcat#endpointURL> "https://query.wikidata.org" .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://purl.org/dc/terms/conformsTo> "https://schema.org/" .
+<http://kgi.services.base4nfdi.de/entity/KGR50> <http://www.w3.org/ns/dcat#landingPage> "https://scimesh.org/about/" .
+<http://kgi.services.base4nfdi.de/entity/KGR68> <http://www.w3.org/ns/dcat#landingPage> "https://search.unhide.helmholtz-metadaten.de/" .
+<http://kgi.services.base4nfdi.de/entity/KGR23> <http://www.w3.org/ns/dcat#landingPage> "https://slod.fiz-karlsruhe.de/about" .
+<http://kgi.services.base4nfdi.de/entity/KGR24> <http://www.w3.org/ns/dcat#endpointURL> "https://slod.fiz-karlsruhe.de/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR35> <http://www.w3.org/ns/dcat#endpointURL> "https://sparql-nfdi-matwerk-02.web.vulcanus.otc.coscine.dev/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR15> <http://www.w3.org/ns/dcat#endpointURL> "https://sparql.dblp.org" .
+<http://kgi.services.base4nfdi.de/entity/KGR37> <http://www.w3.org/ns/dcat#endpointURL> "https://sparql.knowledgehub.nfdi4earth.de/#/dataset/knowledge-graph/query" .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://www.w3.org/ns/dcat#landingPage> "https://wikibase.semantic-kompakkt.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR53> <http://www.w3.org/ns/dcat#accessURL> "https://wikibase.semantic-kompakkt.de/w/api.php" .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://www.w3.org/ns/dcat#landingPage> "https://wikibase.semantic-kompakkt.de/wiki/Main_Page" .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://www.w3.org/ns/dcat#landingPage> "https://www.dnb.de/EN/Professionell/Metadatendienste/Datenbezug/LDS/lds_node.html" .
+<http://kgi.services.base4nfdi.de/entity/KGR9> <http://www.w3.org/ns/dcat#landingPage> "https://www.govdata.de" .
+<http://kgi.services.base4nfdi.de/entity/KGR10> <http://www.w3.org/ns/dcat#endpointURL> "https://www.govdata.de/web/guest/sparql-assistent" .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://purl.org/dc/terms/conformsTo> "https://www.mediawiki.org/wiki/Wikibase/DataModel" .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://purl.org/dc/terms/conformsTo> "https://www.mediawiki.org/wiki/Wikibase/DataModel" .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://purl.org/dc/terms/conformsTo> "https://www.mediawiki.org/wiki/Wikibase/DataModel" .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://purl.org/dc/terms/conformsTo> "https://www.mediawiki.org/wiki/Wikibase/DataModel" .
+<http://kgi.services.base4nfdi.de/entity/KGR69> <http://purl.org/dc/terms/conformsTo> "https://www.mediawiki.org/wiki/Wikibase/DataModel" .
+<http://kgi.services.base4nfdi.de/entity/KGR87> <http://www.w3.org/ns/dcat#accessURL> "https://www.radar-service.eu/knowledgegraph" .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://www.w3.org/ns/dcat#landingPage> "https://www.radar-service.eu/knowledgegraph" .
+<http://kgi.services.base4nfdi.de/entity/KGR86> <http://www.w3.org/ns/dcat#endpointURL> "https://www.radar-service.eu/sparql" .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/conformsTo> "https://www.schema.org/" .
+<http://kgi.services.base4nfdi.de/entity/KGR69> <http://www.w3.org/ns/dcat#landingPage> "https://www.wikidata.org" .
+<http://kgi.services.base4nfdi.de/entity/KGR71> <http://www.w3.org/ns/dcat#downloadURL> "https://www.wikidata.org/wiki/Wikidata:Database_download" .
+<http://kgi.services.base4nfdi.de/entity/KGR59> <http://www.w3.org/ns/dcat#downloadURL> "https://zenodo.org/record/4701764" .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://purl.org/dc/terms/description> "Integrated Authority File"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://purl.org/dc/terms/title> "InteractOA (using Wikidata)"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://purl.org/dc/terms/description> "is an open resource that aggregates a collection of research data properties (metadata, links) available within the OpenAIRE Open Science infrastructure for funders, organizations, researchers, research communities and publishers to interlink information by using a semantic graph database approach."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR83> <http://purl.org/dc/terms/description> "KG for historical data"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR36> <http://purl.org/dc/terms/description> "Knowledge graphs about resources (datasets, people, organizations, repositories, educational material) in the Earth System Sciences"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR23> <http://purl.org/dc/terms/title> "Linked Stage Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR25> <http://purl.org/dc/terms/title> "LinkedOpenData-Service des B3Kat"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://purl.org/dc/terms/description> "Main KG of NFDI4Objects consortium"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://purl.org/dc/terms/title> "MaRDI portal"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://purl.org/dc/terms/title> "MaschinenBauIndustrie KG"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://purl.org/dc/terms/title> "Materials Science and Engineering Knowledge Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR34> <http://purl.org/dc/terms/title> "Matwerk"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/title> "NFDI4BIOIMAGE KG"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR36> <http://purl.org/dc/terms/title> "NFDI4Earth Knowledge Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://purl.org/dc/terms/title> "NFDI4Objects Knowledge Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://purl.org/dc/terms/title> "Nomisma"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR12> <http://www.w3.org/ns/dcat#endpointURL> "not available anymore" .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://purl.org/dc/terms/description> "Numismatic data aggregated from multiple source databases"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR43> <http://purl.org/dc/terms/title> "Open Research Knowledge Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://purl.org/dc/terms/title> "OpenAIRE Research Graph"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR48> <http://purl.org/dc/terms/title> "Question Features Sample"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/title> "RADAR"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR50> <http://purl.org/dc/terms/title> "SciMesh"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://purl.org/dc/terms/title> "Semantic Kompakkt"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://purl.org/dc/terms/title> "Semantic Kompakkt"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://purl.org/dc/terms/description> "Software Mentions in Science"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://purl.org/dc/terms/title> "SoftwareKG"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://purl.org/dc/terms/title> "SoMeSci"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://purl.org/dc/terms/description> "The GESIS Knowledge Graph (GESIS KG) represents metadata of scientific resources available in the GESIS Search and its semantic relationships in an integrated and consistent form and makes them accessible for reuse."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/description> "The NFDI4BIOIMAGE KG (short name N4BIKG) provides information about the consortium (members and participants, affiliations, publications with N4BI funding, projects (projected). It also contains triples that relate NFDI4BIOIMAGE to public Bioimage data repositories maintained by N4BI participants and their respective SPARQL endpoints."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR60> <http://purl.org/dc/terms/title> "The official portal for European data"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://purl.org/dc/terms/description> "This KG contains metadata about 3D objects and their annotations submitted to the Semantic Kompakkt repository."@en .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://purl.org/dc/terms/title> "TweetsCov19"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://purl.org/dc/terms/title> "TweetsKB"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR68> <http://purl.org/dc/terms/title> "Unified Helmholtz Information and Data Exchange (UnHide)"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://purl.org/dc/terms/description> "Very specific usage of Wikidata to demonstrate referencing to sources (started 2018 already)"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR69> <http://purl.org/dc/terms/title> "Wikidata"@en .
+<http://kgi.services.base4nfdi.de/entity/KGR20> <http://www.w3.org/ns/dcat#endpointURL> "work in progress" .
+<http://kgi.services.base4nfdi.de/entity/KGR2> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR1> .
+<http://kgi.services.base4nfdi.de/entity/KGR12> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR11> .
+<http://kgi.services.base4nfdi.de/entity/KGR11> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR13> .
+<http://kgi.services.base4nfdi.de/entity/KGR15> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR14> .
+<http://kgi.services.base4nfdi.de/entity/KGR17> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR16> .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR18> .
+<http://kgi.services.base4nfdi.de/entity/KGR20> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR19> .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR21> .
+<http://kgi.services.base4nfdi.de/entity/KGR24> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR23> .
+<http://kgi.services.base4nfdi.de/entity/KGR26> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR25> .
+<http://kgi.services.base4nfdi.de/entity/KGR25> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR27> .
+<http://kgi.services.base4nfdi.de/entity/KGR29> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR28> .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR3> .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR30> .
+<http://kgi.services.base4nfdi.de/entity/KGR32> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR31> .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR33> .
+<http://kgi.services.base4nfdi.de/entity/KGR35> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR34> .
+<http://kgi.services.base4nfdi.de/entity/KGR37> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR36> .
+<http://kgi.services.base4nfdi.de/entity/KGR39> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR38> .
+<http://kgi.services.base4nfdi.de/entity/KGR5> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR4> .
+<http://kgi.services.base4nfdi.de/entity/KGR41> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR40> .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR42> .
+<http://kgi.services.base4nfdi.de/entity/KGR44> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR43> .
+<http://kgi.services.base4nfdi.de/entity/KGR43> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR45> .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR47> .
+<http://kgi.services.base4nfdi.de/entity/KGR49> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR48> .
+<http://kgi.services.base4nfdi.de/entity/KGR52> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR51> .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR53> .
+<http://kgi.services.base4nfdi.de/entity/KGR55> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR54> .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR56> .
+<http://kgi.services.base4nfdi.de/entity/KGR58> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR57> .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR59> .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR6> .
+<http://kgi.services.base4nfdi.de/entity/KGR61> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR60> .
+<http://kgi.services.base4nfdi.de/entity/KGR63> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR62> .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR64> .
+<http://kgi.services.base4nfdi.de/entity/KGR66> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR65> .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR67> .
+<http://kgi.services.base4nfdi.de/entity/KGR70> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR69> .
+<http://kgi.services.base4nfdi.de/entity/KGR8> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR7> .
+<http://kgi.services.base4nfdi.de/entity/KGR69> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR71> .
+<http://kgi.services.base4nfdi.de/entity/KGR73> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR72> .
+<http://kgi.services.base4nfdi.de/entity/KGR75> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR74> .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR76> .
+<http://kgi.services.base4nfdi.de/entity/KGR78> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR77> .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR79> .
+<http://kgi.services.base4nfdi.de/entity/KGR81> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR80> .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR82> .
+<http://kgi.services.base4nfdi.de/entity/KGR84> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR83> .
+<http://kgi.services.base4nfdi.de/entity/KGR86> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR85> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://www.w3.org/ns/dcat#distribution> <http://kgi.services.base4nfdi.de/entity/KGR87> .
+<http://kgi.services.base4nfdi.de/entity/KGR10> <http://www.w3.org/ns/dcat#servesDataset> <http://kgi.services.base4nfdi.de/entity/KGR9> .
+<http://kgi.services.base4nfdi.de/entity/KGR10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#DataService> .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://kgi.services.base4nfdi.de/entity/KGR13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q106591781> .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q106591781> .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q106591781> .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q107299893> .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108327788> .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542181> .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542181> .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR43> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR48> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542422> .
+<http://kgi.services.base4nfdi.de/entity/KGR36> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542504> .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q108542607> .
+<http://kgi.services.base4nfdi.de/entity/KGR48> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q110695984> .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q110695984> .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q110695984> .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q113500855> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q113544452> .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q116434659> .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q116959508> .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q118232637> .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1204536> .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1256518> .
+<http://kgi.services.base4nfdi.de/entity/KGR23> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1388737> .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1388737> .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1388737> .
+<http://kgi.services.base4nfdi.de/entity/KGR74> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1388737> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1388737> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q1388737> .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1438165> .
+<http://kgi.services.base4nfdi.de/entity/KGR83> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1438165> .
+<http://kgi.services.base4nfdi.de/entity/KGR4> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1485220> .
+<http://kgi.services.base4nfdi.de/entity/KGR48> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1485220> .
+<http://kgi.services.base4nfdi.de/entity/KGR54> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1485220> .
+<http://kgi.services.base4nfdi.de/entity/KGR57> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1485220> .
+<http://kgi.services.base4nfdi.de/entity/KGR62> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1485220> .
+<http://kgi.services.base4nfdi.de/entity/KGR65> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1485220> .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1485220> .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q1493545> .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q15303972> .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q168426> .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q18744528> .
+<http://kgi.services.base4nfdi.de/entity/KGR43> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q2399120> .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q2399120> .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q2399120> .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q2399120> .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q2496322> .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q2496322> .
+<http://kgi.services.base4nfdi.de/entity/KGR25> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q256507> .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q27302> .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q27863572> .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q30045548> .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q30078997> .
+<http://kgi.services.base4nfdi.de/entity/KGR11> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q309988> .
+<http://kgi.services.base4nfdi.de/entity/KGR50> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q309988> .
+<http://kgi.services.base4nfdi.de/entity/KGR28> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q42883470> .
+<http://kgi.services.base4nfdi.de/entity/KGR46> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q47090526> .
+<http://kgi.services.base4nfdi.de/entity/KGR43> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q56755378> .
+<http://kgi.services.base4nfdi.de/entity/KGR11> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q57231890> .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q57432992> .
+<http://kgi.services.base4nfdi.de/entity/KGR1> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q57912203> .
+<http://kgi.services.base4nfdi.de/entity/KGR31> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q57912203> .
+<http://kgi.services.base4nfdi.de/entity/KGR36> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q58427486> .
+<http://kgi.services.base4nfdi.de/entity/KGR80> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q61095922> .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q63216650> .
+<http://kgi.services.base4nfdi.de/entity/KGR83> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q63216650> .
+<http://kgi.services.base4nfdi.de/entity/KGR23> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q63973304> .
+<http://kgi.services.base4nfdi.de/entity/KGR50> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q697111> .
+<http://kgi.services.base4nfdi.de/entity/KGR68> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q697111> .
+<http://kgi.services.base4nfdi.de/entity/KGR36> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q752663> .
+<http://kgi.services.base4nfdi.de/entity/KGR69> <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q8288> .
+<http://kgi.services.base4nfdi.de/entity/KGR77> <http://www.w3.org/ns/dcat#contactPoint> <http://www.wikidata.org/entity/Q89164423> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q96678459> .
+<http://kgi.services.base4nfdi.de/entity/KGR38> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98229157> .
+<http://kgi.services.base4nfdi.de/entity/KGR40> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98229157> .
+<http://kgi.services.base4nfdi.de/entity/KGR16> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98231721> .
+<http://kgi.services.base4nfdi.de/entity/KGR83> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98231721> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98231721> .
+<http://kgi.services.base4nfdi.de/entity/KGR19> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98271443> .
+<http://kgi.services.base4nfdi.de/entity/KGR23> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98276929> .
+<http://kgi.services.base4nfdi.de/entity/KGR51> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98276929> .
+<http://kgi.services.base4nfdi.de/entity/KGR7> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98276929> .
+<http://kgi.services.base4nfdi.de/entity/KGR72> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98276929> .
+<http://kgi.services.base4nfdi.de/entity/KGR85> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98276929> .
+<http://kgi.services.base4nfdi.de/entity/KGR50> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q98380344> .
+<http://kgi.services.base4nfdi.de/entity/KGR22> <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q99534506> .
