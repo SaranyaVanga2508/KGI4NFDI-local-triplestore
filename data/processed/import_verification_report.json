@@ -1,9 +1,0 @@
-{
-  "verified_at": "2026-07-08T19:30:46.834534+00:00",
-  "source_triples": 403,
-  "fuseki_triples": 403,
-  "difference": 0,
-  "is_complete": true,
-  "status": "PASSED",
-  "query": "SELECT (COUNT(*) AS ?count)\nWHERE {\n  ?s ?p ?o .\n}"
-}
