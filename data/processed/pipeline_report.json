@@ -1,12 +1,12 @@
 {
-  "started_at": "2026-07-08T18:00:59.337333+00:00",
+  "started_at": "2026-07-08T19:30:44.356413+00:00",
   "status": "PASSED",
   "steps": {
     "download": {
       "status": "PASSED"
     },
     "validation": {
-      "validated_at": "2026-07-08T18:01:00.718207+00:00",
+      "validated_at": "2026-07-08T19:30:45.896512+00:00",
       "status": "PASSED_WITH_WARNINGS",
       "can_import": true,
       "summary": {
@@ -19,7 +19,7 @@
       },
       "validation_layers": {
         "rdf_technical_validation": {
-          "validated_at": "2026-07-08T18:01:00.292300+00:00",
+          "validated_at": "2026-07-08T19:30:45.324607+00:00",
           "file": "C:\\Users\\Saranya Vanga\\OneDrive\\Documents\\KGI4NFDI-local-triplestore\\data\\raw\\kgi_registry.nt",
           "triple_count": 403,
           "is_valid": true,
@@ -29,7 +29,7 @@
           "warnings": []
         },
         "shacl_semantic_validation": {
-          "validated_at": "2026-07-08T18:01:00.676948+00:00",
+          "validated_at": "2026-07-08T19:30:45.863630+00:00",
           "data_file": "C:\\Users\\Saranya Vanga\\OneDrive\\Documents\\KGI4NFDI-local-triplestore\\data\\raw\\kgi_registry.nt",
           "shapes_file": "C:\\Users\\Saranya Vanga\\OneDrive\\Documents\\KGI4NFDI-local-triplestore\\shapes\\kgi_registry_shapes.ttl",
           "pyshacl_conforms": false,
@@ -47,191 +47,191 @@
           "warnings": [
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR1",
+              "subject": "kgi:KGR28",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR14",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR68",
+              "subject": "kgi:KGR34",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR31",
+              "subject": "kgi:KGR9",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
-            },
-            {
-              "severity": "sh:Warning",
-              "subject": "kgi:KGR28",
-              "property": "dcterms:description",
-              "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
-            },
-            {
-              "severity": "sh:Warning",
-              "subject": "kgi:KGR50",
-              "property": "dcterms:description",
-              "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR43",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR16",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR9",
+              "subject": "kgi:KGR68",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR34",
+              "subject": "kgi:KGR1",
               "property": "dcterms:description",
               "message": "A dcat:Dataset should have a literal description.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b2"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR60",
-              "property": "dcterms:publisher",
-              "message": "A dcat:Dataset should have a publisher IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b3"
+              "subject": "kgi:KGR31",
+              "property": "dcterms:description",
+              "message": "A dcat:Dataset should have a literal description.",
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
+            },
+            {
+              "severity": "sh:Warning",
+              "subject": "kgi:KGR50",
+              "property": "dcterms:description",
+              "message": "A dcat:Dataset should have a literal description.",
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b2"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR14",
               "property": "dcterms:publisher",
               "message": "A dcat:Dataset should have a publisher IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b3"
-            },
-            {
-              "severity": "sh:Warning",
-              "subject": "kgi:KGR9",
-              "property": "dcterms:publisher",
-              "message": "A dcat:Dataset should have a publisher IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b3"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b3"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR34",
               "property": "dcterms:publisher",
               "message": "A dcat:Dataset should have a publisher IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b3"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b3"
+            },
+            {
+              "severity": "sh:Warning",
+              "subject": "kgi:KGR9",
+              "property": "dcterms:publisher",
+              "message": "A dcat:Dataset should have a publisher IRI.",
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b3"
+            },
+            {
+              "severity": "sh:Warning",
+              "subject": "kgi:KGR60",
+              "property": "dcterms:publisher",
+              "message": "A dcat:Dataset should have a publisher IRI.",
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b3"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR46",
               "property": "dcterms:publisher",
               "message": "A dcat:Dataset should have a publisher IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b3"
-            },
-            {
-              "severity": "sh:Warning",
-              "subject": "kgi:KGR60",
-              "property": "dcterms:creator",
-              "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b3"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR14",
               "property": "dcterms:creator",
               "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR11",
+              "subject": "kgi:KGR34",
               "property": "dcterms:creator",
               "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR68",
+              "subject": "kgi:KGR9",
               "property": "dcterms:creator",
               "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR25",
               "property": "dcterms:creator",
               "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR69",
+              "subject": "kgi:KGR68",
               "property": "dcterms:creator",
               "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR9",
+              "subject": "kgi:KGR60",
               "property": "dcterms:creator",
               "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
-            },
-            {
-              "severity": "sh:Warning",
-              "subject": "kgi:KGR34",
-              "property": "dcterms:creator",
-              "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR46",
               "property": "dcterms:creator",
               "message": "A dcat:Dataset should have a creator IRI.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b4"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
-              "subject": "kgi:KGR20",
-              "property": "dcat:endpointURL",
-              "message": "A dcat:DataService endpointURL should be an http/https URL literal.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b8"
+              "subject": "kgi:KGR69",
+              "property": "dcterms:creator",
+              "message": "A dcat:Dataset should have a creator IRI.",
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
+            },
+            {
+              "severity": "sh:Warning",
+              "subject": "kgi:KGR11",
+              "property": "dcterms:creator",
+              "message": "A dcat:Dataset should have a creator IRI.",
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b4"
             },
             {
               "severity": "sh:Warning",
               "subject": "kgi:KGR12",
               "property": "dcat:endpointURL",
               "message": "A dcat:DataService endpointURL should be an http/https URL literal.",
-              "source_shape": "n6ba9e24f2d89458db6c84d3c756fc1c6b8"
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b8"
+            },
+            {
+              "severity": "sh:Warning",
+              "subject": "kgi:KGR20",
+              "property": "dcat:endpointURL",
+              "message": "A dcat:DataService endpointURL should be an http/https URL literal.",
+              "source_shape": "ne920ca20ceb24038a86ce2a7d1878604b8"
             }
           ],
           "infos": []
         },
         "extra_quality_validation": {
-          "validated_at": "2026-07-08T18:01:00.717651+00:00",
+          "validated_at": "2026-07-08T19:30:45.896512+00:00",
           "file": "C:\\Users\\Saranya Vanga\\OneDrive\\Documents\\KGI4NFDI-local-triplestore\\data\\raw\\kgi_registry.nt",
           "is_valid_for_import": true,
           "error_count": 0,
@@ -273,7 +273,7 @@
       "status_code": 200
     },
     "import_verification": {
-      "verified_at": "2026-07-08T18:01:01.877946+00:00",
+      "verified_at": "2026-07-08T19:30:46.834534+00:00",
       "source_triples": 403,
       "fuseki_triples": 403,
       "difference": 0,
@@ -282,7 +282,7 @@
       "query": "SELECT (COUNT(*) AS ?count)\nWHERE {\n  ?s ?p ?o .\n}"
     },
     "registry_statistics": {
-      "generated_at": "2026-07-08T18:01:02.526370+00:00",
+      "generated_at": "2026-07-08T19:30:47.360637+00:00",
       "statistics": {
         "total_triples": 403,
         "datasets": 35,
@@ -295,5 +295,5 @@
       }
     }
   },
-  "finished_at": "2026-07-08T18:01:02.531029+00:00"
+  "finished_at": "2026-07-08T19:30:47.364057+00:00"
 }

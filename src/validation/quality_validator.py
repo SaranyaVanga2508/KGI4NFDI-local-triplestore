@@ -9,8 +9,6 @@ from rdflib.namespace import RDF, DCAT, DCTERMS
 from src.utils.config import KGI_REGISTRY_RDF_FILE
 
 
-KGI_ENTITY_PREFIX = "http://kgi.services.base4nfdi.de/entity/"
-WIKIDATA_ENTITY_PREFIX = "http://www.wikidata.org/entity/"
 WIKIDATA_ENTITY_PATTERN = re.compile(r"^http://www\.wikidata\.org/entity/Q\d+$")
 
 
